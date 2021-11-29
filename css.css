@@ -1,0 +1,339 @@
+body
+{
+font-family: "Segoe Print", "Buxton Sketch", "Monotype Corsiva", Arial, Verdana, Helvetica;
+background-image: url(tlo.jpg);
+background-repeat: no-repeat;
+}
+/* autor: Jakub Grodzicki */
+
+#div1
+{
+position: fixed;
+top: 0vw;
+width: 100vw;
+height: 5vw;
+left: 0vw;
+}
+
+#przycisk1
+{
+color: black;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 15%;
+height: 5%;
+top: 2.5%;
+left: 2.5%;
+font-size: 150%;
+background-color: white;
+cursor: pointer;
+opacity: 0.8;
+}
+
+#przycisk2
+{
+color: black;
+border-radius: 10px 10px 10px 10px; 
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 15%;
+height: 5%;
+top: 2.5%;
+left: 22.5%;
+font-size: 150%;
+background-color: white;
+cursor: pointer;
+opacity: 0.8;
+}
+
+#przycisk3
+{
+color: black;
+border-radius: 10px 10px 10px 10px; 
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 15%;
+height: 5%;
+top: 2.5%;
+left: 42.5%;
+font-size: 150%;
+background-color: white;
+cursor: pointer;
+opacity: 0.8;
+}
+
+#przycisk4
+{
+color: black;
+border-radius: 10px 10px 10px 10px; 
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 15%;
+height: 5%;
+top: 2.5%;
+left: 62.5%;
+font-size: 150%;
+background-color: white;
+cursor: pointer;
+opacity: 0.8;
+}
+
+#przycisk5
+{
+color: black;
+border-radius: 10px 10px 10px 10px; 
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 15%;
+height: 5%;
+top: 2.5%;
+left: 82.5%;
+font-size: 150%;
+background-color: white;
+cursor: pointer;
+opacity: 0.8;
+}
+
+#div2
+{
+background-color: white;
+color: black;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 20%;
+height: 40%;
+left: 40%;
+top: 30%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div3
+{
+background-color: white;
+color: black;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 20%;
+height: 40%;
+left: 25%;
+top: 20%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div4
+{
+background-color: white;
+color: black;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 20%;
+height: 41%;
+left: 50%;
+top: 54%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div5
+{
+background-image: url(manchester.jpg);
+font-weight: bold;
+color: red;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: absolute;
+width: 20%;
+height: 27%;
+left: 5%;
+top: 20%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div6
+{
+background-image: url(real.jpg);
+color: red;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: absolute;
+width: 20%;
+height: 27%;
+left: 5%;
+top: 60%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div7
+{
+background-image: url(juve.jpg);
+color: red;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: absolute;
+width: 20%;
+height: 27%;
+left: 40%;
+top: 20%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div8
+{
+background-image: url(borussia.jpg);
+color: red;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: absolute;
+width: 20%;
+height: 27%;
+left: 40%;
+top: 60%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div9 
+{
+background-image: url(sporting.jpg);
+color: red;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: absolute;
+width: 20%;
+height: 27%;
+right: 5%;
+top: 20%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div10
+{
+background-image: url(psg.jpg);
+color: red;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: absolute;
+width: 20%;
+height: 27%;
+right: 5%;
+top: 60%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div11
+{
+background-color: white;
+color: black;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: absolute;
+width: 20%;
+height: 40%;
+left: 5%;
+top: 30%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div12
+{
+background-color: white;
+color: black;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: absolute;
+width: 20%;
+height: 40%;
+right: 5%;
+top: 30%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div13
+{
+background-color: white;
+color: black;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: absolute;
+width: 40%;
+height: 40%;
+left: 30%;
+top: 25%;
+font-size: 100%;
+opacity: 0.8;
+}
+
+#div14
+{
+background-image: url(byszew.jpeg);
+color: black;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: absolute;
+width: 50%;
+height: 41%;
+left: 25%;
+top: 20%;
+font-size: 100%;
+opacity: 0.9;
+}
+
+#div15
+{
+background-color: white;
+color: black;
+font-weight: bold;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: absolute;
+width: 60%;
+height: 12%;
+left: 20%;
+top: 80%;
+font-size: 100%;
+opacity: 0.9;
+}
