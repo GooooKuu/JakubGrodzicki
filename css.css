@@ -347,8 +347,11 @@ width: 60%;
 height: 12%;
 left: 20%;
 top: 80%;
-font-size: 100%;
+font-size: 3vh;
 opacity: 0.9;
  cursor: url('pilka5.png'), auto;
 }
+
+@media all and (orientation:portrait){
+ 
  
