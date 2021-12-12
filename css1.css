@@ -1,0 +1,210 @@
+body    
+{
+text-decoration: blink;
+text-align: center;
+font-family: "Segoe print", "buxton sketch", "Monotype Corsiva", "Nayla";
+font-size: 12pt;
+color: white;
+background: url('tlo1.jpg') no-repeat;
+margin: 0;
+}
+
+#p1
+{animation: 10s infinite p1;
+    position: fixed;
+    left:0%;
+    top: 1%;
+    width: 5%;
+    width: 5%;
+}
+@keyframes p1
+{
+0%	{top: 1%; left: 0%; transform:rotate(-360deg);}
+7%	{top: 95%; left: 42%; transform:rotate(360deg);}
+14%	{top: 1%; left: 60%; transform:rotate(-360deg);}
+20%	{top: 95%; left: 85%; transform:rotate(360deg);}
+37%	{top: 85%; left: 97%; transform:rotate(-360deg);}
+44%	{top: 1%; left: 35%; transform:rotate(360deg);}
+50%	{top: 50%; left: 0%; transform:rotate(-360deg);}
+57%	{top: 95%; left: 20%; transform:rotate(360deg);}
+64%	{top: 1%; left: 50%; transform:rotate(-360deg);}
+70%	{top: 95%; left: 80%; transform:rotate(360deg);}
+77%	{top: 65%; left: 97%; transform:rotate(-360deg);}
+84%	{top: 1%; left: 75%; transform:rotate(360deg);}
+90%	{top: 95%; left: 25%; transform:rotate(-360deg);}
+100%	{top: 1%; left: 0%; transform:rotate(360deg);}
+}
+
+#p2
+{animation: 15s infinite p2;
+    position: fixed;
+    left: 95%;
+    top: 1%;
+    height: 9%;
+    width: 9%;
+}
+@keyframes p2
+{
+0%	{top: 95%; left: 0%; transform:rotate(-360deg);}
+7%	{top: 1%; left: 40%; transform:rotate(360deg);}
+14%	{top: 95%; left: 58%; transform:rotate(-360deg);}
+20%	{top: 1%; left: 80%; transform:rotate(360deg);}
+37%	{top: 15%; left: 97%; transform:rotate(-360deg);}
+44%	{top: 95%; left: 65%; transform:rotate(360deg);}
+50%	{top: 1%; left: 30%; transform:rotate(-360deg);}
+57%	{top: 50%; left: 0%; transform:rotate(360deg);}
+64%	{top: 95%; left: 50%; transform:rotate(-360deg);}
+70%	{top: 30%; left: 97%; transform:rotate(360deg);}
+77%	{top: 1%; left: 60%; transform:rotate(-360deg);}
+84%	{top: 95%; left: 40%; transform:rotate(360deg);}
+90%	{top: 1%; left: 20%; transform:rotate(-360deg);}
+100%	{top: 95%; left: 0%; transform:rotate(360deg);}
+}
+
+#p3
+{animation: 20s infinite p3;
+    position: fixed;
+    left: 95%;
+    top: 1%;
+    height: 7%;
+    width: 7%;
+}
+@keyframes p3
+{
+0%	{top: 1%; left: 97%; transform:rotate(-360deg);}
+7%	{top: 50%; left: 1%; transform:rotate(360deg);}
+14%	{top: 95%; left: 40%; transform:rotate(-360deg);}
+20%	{top: 1%; left: 50%; transform:rotate(360deg);}
+37%	{top: 40%; left: 97%; transform:rotate(-360deg);}
+44%	{top: 95%; left: 90%; transform:rotate(360deg);}
+50%	{top: 60%; left: 1%; transform:rotate(-360deg);}
+57%	{top: 1%; left: 30%; transform:rotate(360deg);}
+64%	{top: 95%; left: 70%; transform:rotate(-360deg);}
+70%	{top: 1%; left: 10%; transform:rotate(360deg);}
+77%	{top: 80%; left: 1%; transform:rotate(-360deg);}
+84%	{top: 40%; left: 97%; transform:rotate(360deg);}
+90%	{top: 30%; left: 1%; transform:rotate(-360deg);}
+100%	{top: 1%; left: 97%; transform:rotate(360deg);}
+}
+
+
+#p4
+{animation: 13s infinite p4;
+    position: fixed;
+    left: 95%;
+    top: 1%;
+    height: 7%;
+    width: 7%;
+}
+@keyframes p4
+{
+0%	{top: 1%; left: 97%; transform:rotate(-360deg);}
+7%	{top: 50%; left: 1%; transform:rotate(360deg);}
+14%	{top: 95%; left: 40%; transform:rotate(-360deg);}
+20%	{top: 1%; left: 50%; transform:rotate(360deg);}
+37%	{top: 40%; left: 97%; transform:rotate(-360deg);}
+44%	{top: 95%; left: 90%; transform:rotate(360deg);}
+50%	{top: 60%; left: 1%; transform:rotate(-360deg);}
+57%	{top: 1%; left: 30%; transform:rotate(360deg);}
+64%	{top: 95%; left: 70%; transform:rotate(-360deg);}
+70%	{top: 1%; left: 10%; transform:rotate(360deg);}
+77%	{top: 80%; left: 1%; transform:rotate(-360deg);}
+84%	{top: 40%; left: 97%; transform:rotate(360deg);}
+90%	{top: 30%; left: 1%; transform:rotate(-360deg);}
+100%	{top: 1%; left: 97%; transform:rotate(360deg);}
+}
+
+#div1
+{
+position: fixed;
+top: 0vw;
+width: 100vw;
+height: 5vw;
+left: 0vw;
+}
+
+#przycisk1
+{
+color: black;
+border-radius: 10px 10px 10px 10px;
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 15%;
+height: 5%;
+top: 2.5%;
+left: 2.5%;
+font-size: 150%;
+background-color: white;
+cursor: url('pilka5.png'), auto;
+opacity: 0.8;
+}
+
+#przycisk2
+{
+color: black;
+border-radius: 10px 10px 10px 10px; 
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 15%;
+height: 5%;
+top: 2.5%;
+left: 22.5%;
+font-size: 150%;
+background-color: white;
+cursor: url('pilka5.png'), auto;
+opacity: 0.8;
+}
+
+#przycisk3
+{
+color: black;
+border-radius: 10px 10px 10px 10px; 
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 15%;
+height: 5%;
+top: 2.5%;
+left: 42.5%;
+font-size: 150%;
+background-color: white;
+cursor: url('pilka5.png'), auto;
+opacity: 0.8;
+}
+
+#przycisk4
+{
+color: black;
+border-radius: 10px 10px 10px 10px; 
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 15%;
+height: 5%;
+top: 2.5%;
+left: 62.5%;
+font-size: 150%;
+background-color: white;
+cursor: url('pilka5.png'), auto;
+opacity: 0.8;
+}
+
+#przycisk5
+{
+color: black;
+border-radius: 10px 10px 10px 10px; 
+border: 5px solid black;
+box-shadow: black 0.5em 0.5em 0.5em;
+position: fixed;
+width: 15%;
+height: 5%;
+top: 2.5%;
+left: 82.5%;
+font-size: 150%;
+background-color: white;
+cursor: url('pilka5.png'), auto;
+opacity: 0.8;
+}
+
