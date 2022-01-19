@@ -1,0 +1,24 @@
+body
+{
+	font-size: 25pt;
+	color: white;
+	background-color: black;
+}
+/* autor: Jakub Grodzicki */
+
+div.menu_tlo
+{
+	height: 27%;
+	width: 90%;
+	background-color: grey;
+}
+
+div.strona
+{
+	height: 450px;
+	width: 90%;
+	background: grey;
+}
+
+
+
