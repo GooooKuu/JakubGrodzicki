@@ -11,6 +11,7 @@ div.menu_tlo
 	height: 27%;
 	width: 90%;
 	background-color: grey;
+	box-shadow: #666666 0.5em 0.5em 0.5em;
 }
 
 div.strona
@@ -18,6 +19,7 @@ div.strona
 	height: 450px;
 	width: 90%;
 	background: grey;
+	box-shadow: #666666 0.5em 0.5em 0.5em;
 }
 
 
